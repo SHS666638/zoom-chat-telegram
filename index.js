@@ -1,4 +1,4 @@
-let token_api_apphash = APPHASH;
-let token_api_appid = APPID;
+
+let token_api_appid = user_id_telegram;
 /* Join Channel Logs telegram github! */
 var channelid = $channelid
